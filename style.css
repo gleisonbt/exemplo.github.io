@@ -3,3 +3,7 @@
     background-color: blue;
     border: 5px solid red;
 }
+
+.conteudo {
+    border: 5px dotted green;
+}
